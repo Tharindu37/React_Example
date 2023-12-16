@@ -1,0 +1,10 @@
+a{
+    cursor: pointer;
+    padding: 5px 10px 5px 10px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+
+a:hover{
+    background-color: lightblue;
+}

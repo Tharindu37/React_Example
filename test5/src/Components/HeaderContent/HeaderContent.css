@@ -1,0 +1,12 @@
+.main-wrap{
+    padding: 10px;
+    display: flex;
+}
+
+.link-wrap{
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+}

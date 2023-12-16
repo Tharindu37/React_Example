@@ -1,0 +1,14 @@
+#nav-content{
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    background-color: black;
+}
+
+
+#nav-content>div{
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}

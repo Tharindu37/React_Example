@@ -1,0 +1,23 @@
+/* 
+ul{
+    display: flex;
+    gap: 50px;
+    list-style-type: none;
+}
+li{
+    color: white;
+    cursor: pointer;
+}
+
+li:hover{
+    color: blue;
+} */
+
+h6{
+    color: white;
+    font-size: 20px;
+}
+
+a{
+    text-decoration: none;
+}
